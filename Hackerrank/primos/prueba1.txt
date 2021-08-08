@@ -1,0 +1,25 @@
+Prueba 1:
+Obtención de numeros primos con la función isprime()
+
+Con salida:
+real    1m36.428s
+user    0m1.750s
+sys     0m5.063s
+
+Sin salida:
+real    0m0.278s
+user    0m0.250s
+sys     0m0.000s
+
+Prueba 2:
+Obtención de los primos con la "dp" primesDP
+
+Con salida:
+real    0m22.910s
+user    0m1.219s
+sys     0m5.297s
+
+Sin salida:
+real    0m0.210s
+user    0m0.203s
+sys     0m0.016s
